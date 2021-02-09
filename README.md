@@ -8,9 +8,10 @@
 
 click the icon:
 * play - start the stopwatch
-* pause - stop
-* stop- stop
-* reset - reset time
+* pause 
+* stop-
+* reset 
+time
 
 you can change the stopwatch colors! :blush:
 You can also register the result :)
