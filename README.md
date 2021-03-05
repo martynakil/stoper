@@ -42,14 +42,14 @@ You can also register the result :)
 
 -----
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/stoper/STOPER/index.html)
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/stoper/STOPER/index.html)
 
 -----
 
 :computer: TECHNOLOGIES : html, css and JS.
 
 —---------
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/form_validation)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/form_validation)
 
 
  
